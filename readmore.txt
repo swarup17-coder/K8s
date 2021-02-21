@@ -1,1 +1,2 @@
 Welcome to AWS EC2!!!
+lets create a Windowds Instance!!
