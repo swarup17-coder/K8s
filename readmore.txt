@@ -1,1 +1,2 @@
 Welcome to AWS EC2!!!
+create a linux instance
